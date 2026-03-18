@@ -2,7 +2,7 @@ import sys
 
 sys.path.append("..")
 
-import pandas as pd
+import pandas as pd 
 import os
 import spacy
 from spacy.language import Language
